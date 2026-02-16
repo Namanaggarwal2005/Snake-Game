@@ -39,7 +39,7 @@ This project focuses on object-oriented programming, clean code structure, and c
 1. Make sure Python is installed on your system
 2. Clone this repository:
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/Namanaggarwal2005/Snake-Game.git>
    cd snake-game
    python SnakeGame.py
   '''
