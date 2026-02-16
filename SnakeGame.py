@@ -1,6 +1,6 @@
 from turtle import Screen
-from Snake.snake import Snake
-import time,Snake.food as food,Snake.scoreboard as scoreboard
+from snake import Snake
+import time,food as food,scoreboard as scoreboard
     
 screen = Screen()
 screen.setup(width=600,height=600)
@@ -40,5 +40,6 @@ while game_is_on:
 screen.exitonclick()
 
     
+
 
 
